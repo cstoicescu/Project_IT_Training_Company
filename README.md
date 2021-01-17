@@ -14,4 +14,7 @@ Login credentials for app:
 - Composite for Employees, Coursants and a composite Class with manages the other classes, named Admin
 
 used both imperative and funtional programming
- */
+ */  
+
+## USE CASE DIAGRAM
+<img src="https://i.imgur.com/tl8zdla.png"/>
